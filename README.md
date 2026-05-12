@@ -1,6 +1,6 @@
-# Magic Navigation Menu
+# Dynamic-Menu-Indicator
 
-Animated navigation menu with smooth indicator effects using HTML, CSS and JavaScript.
+Animated dynamic navigation menu indicator using HTML, CSS and JavaScript
 
 ## Features
 - Smooth navigation animation
@@ -9,8 +9,7 @@ Animated navigation menu with smooth indicator effects using HTML, CSS and JavaS
 - Pure HTML CSS JavaScript
 
 ## Live Demo
-https://khushiprajapati01.github.io/magic-navigation-menu/
-
+https://khushiprajapati01.github.io/Dynamic-Menu-Indicator/
 ## Technologies Used
 - HTML
 - CSS
